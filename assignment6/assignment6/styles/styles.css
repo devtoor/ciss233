@@ -1,0 +1,19 @@
+﻿body {
+    font-weight: bold;
+    margin: 30px 30px 30px 30px;
+    font: 100% "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background-color: #C7E4FA;
+}
+.error {
+    color: #CC0000;
+    font-size: medium;
+}
+h1 {
+    color: #990033;
+}
+.result {
+    color: #000099;
+    font-size: large;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
